@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Nigga
+
 
 
 # 💻 Tech Stack:
